@@ -8,3 +8,4 @@
   * [3. Satellite](data-vault/3.-satellite.md)
   * [Insert-Only Architecture](data-vault/insert-only-architecture.md)
   * [Insert-Only Architecture](readme/insert-only-architecture-1.md)
+  * [4. Link - Satellite](readme/4.-link-satellite.md)
